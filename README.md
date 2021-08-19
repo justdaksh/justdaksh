@@ -28,7 +28,7 @@
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justdaksh&count_private=true&theme=dark" alt="Jas-Script" />
  <br/>
  <br/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit-30&layout=compact&theme=dark" alt="top-langs" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justdaksh&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justdaksh&" alt="justdaksh" /></p> -->
