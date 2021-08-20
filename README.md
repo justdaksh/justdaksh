@@ -1,15 +1,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Daksh Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justdaksh&label=Profile%20views&color=0e75b6&style=flat" alt="justdaksh" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and algorithms, Web Development.**
+- 🌱 I’m currently learning **Data Structure and algorithms || Web Development.**
 
 - 📫 How to reach me **sdaksh31@gmail.com**
 
-- ⚡ Fun fact **Jo bolta h vahi hota h!**
+<!-- - ⚡ Fun fact **Jo bolta h vahi hota h!** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
