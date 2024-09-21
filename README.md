@@ -1,36 +1,20 @@
+# 💫 About Me:
+## Hello🧑‍💻 Daksh Sharma here🙋
+🔭 Fullstack developer<br>🏫 Building ConduitCash <br>🤝🏻 Love to collaborate on cool projects.<br>
 
 
-<h1 align="center">Hi 👋, I'm Daksh Sharma</h1>
-<h3 align="center">A passionate Learner from India</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justdaksh) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brewdaksh) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justdaksh&label=Profile%20views&color=0e75b6&style=flat" alt="justdaksh" /> </p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- 🌱 I’m currently learning **Data Structure and algorithms || Web Development.**
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=justdaksh&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=justdaksh&show_icons=true&theme=gotham)
 
-- 📫 How to reach me **sdaksh31@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=justdaksh&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- - ⚡ Fun fact **Jo bolta h vahi hota h!** -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/brewdaksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dakshsh02566834" height="30" width="40" /></a>
-<a href="https://instagram.com/justdaksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justdaksh" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=justdaksh&theme=dark&show_icons=true" alt="justdaksh" />
-  <br />
-  <br />
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justdaksh&count_private=true&theme=dark" alt="Jas-Script" />
- <br/>
- <br/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justdaksh&layout=compact&theme=dark" alt="top-langs" />
-</p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justdaksh&" alt="justdaksh" /></p> -->
-
-
+  
